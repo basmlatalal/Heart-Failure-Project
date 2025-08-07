@@ -1,10 +1,11 @@
-# Heart-Failure-Prediction
+# Heart-Failure-Project
 This project is a machine learning application for predicting heart failure based on patients' clinical data. Using a dataset of 12 medical features, the system applies various classification algorithms to assess the risk of death due to heart failure.
 
 # Dataset
 Source: https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data<br>
 Features: **12** clinical features<br>
 Target: **DEATH_EVENT**<br>
+Presentation : https://www.canva.com/design/DAGvIm9-B6Y/FL1KiMM94am6tNV3qnGhkw/edit?utm_content=DAGvIm9-B6Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton <br>
 
 # Project Workflow
 1-Data Preprocessing.<br>
